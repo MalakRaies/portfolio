@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ee695d9d.css",
-    "main.js": "/portfolio/static/js/main.a864d021.js",
+    "main.js": "/portfolio/static/js/main.3e6d2d53.js",
     "static/js/453.298f5782.chunk.js": "/portfolio/static/js/453.298f5782.chunk.js",
     "static/media/02.jpg": "/portfolio/static/media/02.579c20764f6b05c7e062.jpg",
     "static/media/01.PNG": "/portfolio/static/media/01.c7d4e5e80ffa57ab4eee.PNG",
@@ -31,25 +31,30 @@
     "static/media/016.jpg": "/portfolio/static/media/016.aeeb9ec6e3547a0472cf.jpg",
     "static/media/012.jpg": "/portfolio/static/media/012.2b771699874e1a62991c.jpg",
     "static/media/015.jpg": "/portfolio/static/media/015.6991701949248ccbaa98.jpg",
+    "static/media/php.png": "/portfolio/static/media/php.297ec7893471cd545b2d.png",
     "static/media/07.jpg": "/portfolio/static/media/07.c6c2820e5ebf270ee9dd.jpg",
     "static/media/011.png": "/portfolio/static/media/011.ab5f3283f0c2ac4e6dc9.png",
     "static/media/000.png": "/portfolio/static/media/000.5a47398b558d7f4f6469.png",
     "static/media/01.jpg": "/portfolio/static/media/01.be73924c6cf026e6b195.jpg",
     "static/media/06.jpg": "/portfolio/static/media/06.676cbeed20a1e6bb6f53.jpg",
     "static/media/08.png": "/portfolio/static/media/08.28fe3e10691d8efe716e.png",
+    "static/media/c++.png": "/portfolio/static/media/c++.8d888f43087e4dc78bf4.png",
     "static/media/03.jpg": "/portfolio/static/media/03.238195c4e6aa25e8f076.jpg",
     "static/media/06.png": "/portfolio/static/media/06.210ac637b722be073598.png",
-    "static/media/c_logo.png": "/portfolio/static/media/c_logo.53a75b960f8a0f0995fe.png",
     "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/Python.png": "/portfolio/static/media/Python.eb82a955776c602b8f0b.png",
     "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/04.jpg": "/portfolio/static/media/04.645dca710c9e20f70697.jpg",
     "static/media/09.png": "/portfolio/static/media/09.f012e48e97dc2e4c9fd7.png",
+    "static/media/shopify.png": "/portfolio/static/media/shopify.33189f70bbe5f5fbd990.png",
     "static/media/12.png": "/portfolio/static/media/12.cd5cc1a4f8fd36ff6a2b.png",
     "static/media/logo.png": "/portfolio/static/media/logo.c1c0eb3fbb4c21eb5bc8.png",
+    "static/media/springboot.png": "/portfolio/static/media/springboot.229a53240f0e886447b2.png",
+    "static/media/android.png": "/portfolio/static/media/android.13325f7e94a3cf5e5c5c.png",
     "static/media/11.png": "/portfolio/static/media/11.ed49ec1efffe13e28349.png",
     "static/media/10.png": "/portfolio/static/media/10.68c36b95ff74766d7024.png",
+    "static/media/java.png": "/portfolio/static/media/java.23470383957c5cf48df7.png",
     "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/atig_logo.jpeg": "/portfolio/static/media/atig_logo.58c18f025d9bec35d887.jpeg",
@@ -61,11 +66,11 @@
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.ee695d9d.css.map": "/portfolio/static/css/main.ee695d9d.css.map",
-    "main.a864d021.js.map": "/portfolio/static/js/main.a864d021.js.map",
+    "main.3e6d2d53.js.map": "/portfolio/static/js/main.3e6d2d53.js.map",
     "453.298f5782.chunk.js.map": "/portfolio/static/js/453.298f5782.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee695d9d.css",
-    "static/js/main.a864d021.js"
+    "static/js/main.3e6d2d53.js"
   ]
 }
