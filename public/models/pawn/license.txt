@@ -1,0 +1,11 @@
+Model Information:
+* title:	chess pawn
+* source:	https://sketchfab.com/3d-models/chess-pawn-c58129c89e1b4de7bee82a426a7c0e4c
+* author:	ibad iftikhar (https://sketchfab.com/xolborgaming15)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "chess pawn" (https://sketchfab.com/3d-models/chess-pawn-c58129c89e1b4de7bee82a426a7c0e4c) by ibad iftikhar (https://sketchfab.com/xolborgaming15) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

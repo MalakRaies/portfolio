@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chess set
+* source:	https://sketchfab.com/3d-models/chess-set-a2664ea4fcaa4a64ad077667d9d0c7fb
+* author:	brendan wood (https://sketchfab.com/brendanwood872)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chess set" (https://sketchfab.com/3d-models/chess-set-a2664ea4fcaa4a64ad077667d9d0c7fb) by brendan wood (https://sketchfab.com/brendanwood872) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
